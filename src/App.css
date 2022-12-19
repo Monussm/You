@@ -1,0 +1,289 @@
+*{
+ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Logo{
+
+width: 190px;
+
+}
+.Get-started{
+
+  background-color: #60a159;
+display: flex;
+align-items: center;
+font-weight: 500;
+justify-content: center;
+width: 150px;
+border: 0;
+border-radius: 10px;
+height: 40px;
+text-decoration: none;
+color: white; 
+box-shadow: 1px 5px 0px -2px rgb(86, 81, 81);
+
+}
+.Get-started:hover{
+
+
+  color: white;
+  background-color: green;
+}
+.preneur{
+
+width: 142px;
+
+
+}
+.asseen{
+  margin-left: 137px;
+}
+.navbar{
+
+background-color: rgb(235, 211, 175);
+
+
+}
+.choice{
+
+
+  background-color: rgb(235, 211, 175);
+  height: 370px;
+}
+.nav-link{
+  color: #684112;
+}
+.your{
+
+  color: #684112;
+
+}
+.craft{
+
+
+  color: #866a47;
+}
+.firstpic{
+
+width: 220px;
+
+}
+.firstpic2{
+  height: 43px;
+}
+.offour{
+
+
+  font-size: 27px;
+}
+.brown{
+
+  height: 296px;
+  background-color: rgb(3, 49, 3);
+
+
+}
+.clients{
+
+margin-top: 50px;
+
+
+}
+.Get-started2{
+  background-color: #60a159;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  justify-content: center;
+  width: 180px;
+  border: 0;
+  border-radius: 10px;
+  height: 60px;
+  text-decoration: none;
+  color: white; 
+  box-shadow: 1px 5px 0px -2px rgb(86, 81, 81);
+
+
+}
+.Get-started2:hover{
+  color: white;
+  background-color: green;
+
+}
+.build{
+
+border-left: 3px rgb(186, 193, 137) solid;
+font-size: 13px;
+
+
+}
+.consulting{
+
+
+height: 500px;
+background-color:  rgb(235, 211, 175); ;
+
+}
+.cover{
+
+background-color: rgb(58, 97, 58);
+color: white;
+
+
+
+}
+.text-dark{
+text-decoration: none;
+
+}
+.goharkhan{
+
+width: 188px;
+height: 162px;
+border-radius: 50%;
+
+
+
+}
+.khan{
+
+background-color: rgb(129, 45, 40);
+color: white;
+border-radius: 15px;
+
+
+
+}
+.about{
+
+margin-top: 50px;
+
+}
+.happy{
+
+  background-color: white;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  justify-content: center;
+  width: 180px;
+  border: 0;
+  border-radius: 10px;
+  height: 60px;
+  text-decoration: none;
+  color: black; 
+  box-shadow: 1px 5px 0px -2px rgb(86, 81, 81);
+
+}
+.happy:hover{
+  color: white;
+  background-color: green;
+
+
+
+}
+a{
+
+  text-decoration: none;
+
+}
+
+li{
+
+list-style-type: none
+;
+
+
+}
+.sati{
+
+height: 236px;
+
+
+}
+.admin{
+
+
+  background-color: bisque;
+  height: 440px;
+  color: #7b5b33;
+}
+.medal{
+
+
+  border: 2px solid  rgb(252, 252, 143);
+  margin-left: 2px;
+  background-color: rgb(252, 252, 143);
+  border-radius: 10px;
+}
+.email{
+outline: 0;
+height: 60px;
+border-radius: 10px;
+}
+.admi{
+
+background-color: bisque;
+height: 196px;
+
+}
+.exprience{
+background-color: bisque;
+height: 729px;
+
+}
+@media screen and (max-width: 764px){
+   .choice{
+    height: 411px;
+
+
+   }
+   .brown{
+    height: 390px;
+   }
+   .firstpic{
+
+     width: 164px;
+
+   }
+   .firstpic2{
+
+
+    width: 94px;
+   }
+  
+ 
+  .admin{
+
+   height: 828px;
+   /* margin-top: 1120px; */
+
+
+  }
+  .goharkhan{
+
+
+ margin-top: 10px;  
+ text-align: left; 
+  }
+  .exprience{
+
+
+    height:1431px
+  }
+
+
+
+ 
+
+
+
+
+
+
+
+}
